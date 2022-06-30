@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\ZADANIE1\ZADANIE1\bin\Debug\ZADANIE1.exe.config
+C:\Users\DELL\source\repos\ZADANIE1\ZADANIE1\bin\Debug\ZADANIE1.exe
+C:\Users\DELL\source\repos\ZADANIE1\ZADANIE1\bin\Debug\ZADANIE1.pdb
+C:\Users\DELL\source\repos\ZADANIE1\ZADANIE1\obj\Debug\ZADANIE1.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\ZADANIE1\ZADANIE1\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\source\repos\ZADANIE1\ZADANIE1\obj\Debug\App.g.cs
+C:\Users\DELL\source\repos\ZADANIE1\ZADANIE1\obj\Debug\ZADANIE1_MarkupCompile.cache
+C:\Users\DELL\source\repos\ZADANIE1\ZADANIE1\obj\Debug\ZADANIE1_MarkupCompile.lref
+C:\Users\DELL\source\repos\ZADANIE1\ZADANIE1\obj\Debug\MainWindow.baml
+C:\Users\DELL\source\repos\ZADANIE1\ZADANIE1\obj\Debug\ZADANIE1.g.resources
+C:\Users\DELL\source\repos\ZADANIE1\ZADANIE1\obj\Debug\ZADANIE1.Properties.Resources.resources
+C:\Users\DELL\source\repos\ZADANIE1\ZADANIE1\obj\Debug\ZADANIE1.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\ZADANIE1\ZADANIE1\obj\Debug\ZADANIE1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ZADANIE1\ZADANIE1\obj\Debug\ZADANIE1.exe
+C:\Users\DELL\source\repos\ZADANIE1\ZADANIE1\obj\Debug\ZADANIE1.pdb

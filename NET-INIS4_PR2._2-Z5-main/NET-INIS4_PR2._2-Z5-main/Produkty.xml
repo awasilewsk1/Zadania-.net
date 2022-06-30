@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GrupyProduktów>
+	
+  <Grupa>
+    <Nazwa>Samochody</Nazwa>
+	  <Produkty>
+		  <Produkt
+			  id="111">
+			  <Nazwa>Fiat Uno</Nazwa>
+			  <Cena>8 000</Cena>
+			  <Rocznik>2005</Rocznik>
+			  <Silnik>super szybki</Silnik>
+			  <KrajPochodzenia Kod="I">
+				  <Nazwa>Włochy</Nazwa>
+			  </KrajPochodzenia>
+		  </Produkt>
+		  <Produkt
+			  id="111211">
+			  <Nazwa>Toyota Corolla</Nazwa>
+			  <Cena>10 000</Cena>
+			  <Rocznik>2006</Rocznik>
+			  <Silnik>Szybki</Silnik>
+			  <KrajPochodzenia Kod="JP">
+				  <Nazwa>Japonia</Nazwa>
+			  </KrajPochodzenia>
+		  </Produkt>
+	  </Produkty>
+  </Grupa>
+
+	<Grupa>
+		<Nazwa>Samoloty</Nazwa>
+		<Produkty>
+			<Produkt
+			  id="132211">
+				<Nazwa>F16</Nazwa>
+				<Cena>10 000 000</Cena>
+				<Rocznik>1998</Rocznik>
+				<Silnik>odrzutowy</Silnik>
+				<KrajPochodzenia Kod="USA">
+					<Nazwa>Stany Zjednoczone</Nazwa>
+				</KrajPochodzenia>
+			</Produkt>
+			<Produkt
+			  id="1141">
+				<Nazwa>Latawiec</Nazwa>
+				<Cena>10</Cena>
+				<Rocznik>2009</Rocznik>
+				<Silnik>wiatr</Silnik>
+				<KrajPochodzenia Kod="PL">
+					<Nazwa>Polska</Nazwa>
+				</KrajPochodzenia>
+			</Produkt>
+		</Produkty>
+	</Grupa>
+	
+  <Grupa>
+    <Nazwa>Statki</Nazwa>
+    <Produkty>
+		<Produkt
+			  id="11211">
+			<Nazwa>Tytanik</Nazwa>
+			<Cena>1 000 000</Cena>
+			<Rocznik>1902</Rocznik>
+			<Silnik>DUZY</Silnik>
+			<KrajPochodzenia Kod="BR">
+				<Nazwa>Wielka Brytania</Nazwa>
+			</KrajPochodzenia>
+		</Produkt>
+		<Produkt
+			  id="155211">
+			<Nazwa>Rower wodny</Nazwa>
+			<Cena>100 za godzine</Cena>
+			<Rocznik>2020</Rocznik>
+			<Silnik>napęd własny</Silnik>
+			<KrajPochodzenia Kod="PL">
+				<Nazwa>Polska</Nazwa>
+			</KrajPochodzenia>
+		</Produkt>
+    </Produkty>
+  </Grupa>
+	
+</GrupyProduktów>
